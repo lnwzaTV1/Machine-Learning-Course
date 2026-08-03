@@ -52,8 +52,3 @@
   * **FEMALE:** ทำนายถูกต้อง **29 ตัว** (ทำนายผิดเป็นชาย 8 ตัว)
   * **MALE:** ทำนายถูกต้อง **25 ตัว** (ทำนายผิดเป็นหญิง 5 ตัว)
 
----
-
-##  Tech Stack
-* **Language:** Python 3
-* **Libraries:** `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`
