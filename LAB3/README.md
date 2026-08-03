@@ -1,4 +1,4 @@
-# 🐧 LAB 3: Regression & Classification (Palmer Penguins)
+#  LAB 3: Regression & Classification (Palmer Penguins)
 
 ##  1. Data Preprocessing & Cleaning
 
