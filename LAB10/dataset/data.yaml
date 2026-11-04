@@ -1,0 +1,13 @@
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 3
+names: ['Chinstrap Penguin', 'Emperor Penguin', 'Southern Rockhopper Penguin']
+
+roboflow:
+  workspace: kush-patel-zwkts
+  project: penguins-voevi
+  version: 11
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/kush-patel-zwkts/penguins-voevi/dataset/11
